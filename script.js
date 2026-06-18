@@ -10,7 +10,7 @@
 const typingText = document.getElementById("typing");
 
 const roles = [
-    "ComputerScience Engineeringer",
+    "ComputerScience and engineering",
     "Data Analytics Enthusiast",
     "Web Developer",
     "Python Programmer"
