@@ -508,6 +508,7 @@ header{
     );
 }
 
+
 /* ===========================
    IFRAME RESUME
 =========================== */
@@ -609,3 +610,25 @@ footer{
     }
 }
 
+.custom-icon {
+    width: 45px;
+    height: 45px;
+    border: 2px solid #00BFFF;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    margin: 0 8px;
+}
+
+.custom-icon:hover {
+    background: #00BFFF;
+    color: #111;
+    transform: translateY(-5px);
+}
